@@ -1,0 +1,5 @@
+== Hot potato game
+
+An exercise for programming in Zig.
+
+Reference: https://people.duke.edu/~tkb13/courses/ece650-2018sp/homeworks/homework3-program.pdf
